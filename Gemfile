@@ -16,7 +16,7 @@ gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
 # To use debugger
 # gem 'ruby-debug'
 
-# Bundle the extra gems:
+# Bundle the extra gem
 # gem 'bj'
 # gem 'nokogiri'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
